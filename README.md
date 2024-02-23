@@ -1,4 +1,5 @@
-# Fabric Example Mod
+# NecroMod
+A mod made using frabric mod exemple to do a mod initial in a concept part 
 
 ## Setup
 
