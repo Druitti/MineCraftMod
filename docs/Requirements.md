@@ -5,7 +5,9 @@
 **Gorgorth(Hostile)**
  every shadow mob it's a ressurected mob, who the design must be a dark aspect with a random color 
  Shadow Creeper Desing : dark aspect with a random color
+ 
  Shadow Creeper Design : dark aspect with a random color
+ 
  Shadow Skeleton Design : dark aspect with a random color
  Gorgorth Design: gorgorth it's a ogre cyclope golem that can be founded in the world, drops 10 times more experiance to shadow bar with more life, strong, but slower 
 
