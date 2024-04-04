@@ -22,7 +22,9 @@
 
  **Etherium Ore(Dropped)** 
  
- **Etherium(Smelting)**
+ **Etherium(Dropped)**
+ 
+**Etherium Block (Dropped)**
 
 
 ## Crafting
