@@ -1,3 +1,8 @@
 {
-  "item.necromod.shadow_dagger": "Shadow Dagger"
+  "item.necromod.shadow_dagger": "Shadow Dagger",
+  "item.necromod.etherium": "Etherium",
+  "block.necromod.etherium_ore": "Etherium Ore",
+  "block.necromod.etherium_block": "Etherium Block",
+  "block.necromod.deepslate_etherium_ore": "Deepslate Etherium Ore"
+
 }

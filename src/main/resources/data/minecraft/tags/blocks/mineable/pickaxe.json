@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "necromod:etherium_ore",
+    "necromod:deepslate_etherium_ore",
+    "necromod:etherium_block"
+  ]
+}

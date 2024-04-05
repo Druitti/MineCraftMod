@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "key": {
+    "#": {
+      "item": "necromod:etherium"
+    },
+
+    "/": {
+      "item": "minecraft:dragon_egg"
+    },
+    "-": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "pattern": [
+    " ##",
+    "#/#",
+    "-# "
+  ],
+  "result": {
+    "item": "necromod:shadow_dagger"
+  }
+}
