@@ -1,0 +1,4 @@
+// 1.20.4	2024-04-09T15:36:57.3897702	Registries
+d4c63df3ea5deab3968018b05c92acc5bf10f775 data/necromod/forge/biome_modifier/add_etherium_ore.json
+13c85d75a977838c3b24178ce21eade20a50c533 data/necromod/worldgen/configured_feature/etherium_ore.json
+9b7da7625ebc5ff07f8d48f04149a6b30ec8ad26 data/necromod/worldgen/placed_feature/etherium_ore_placed.json
